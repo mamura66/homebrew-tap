@@ -1,5 +1,7 @@
 # ample — see what your tools left on your Mac
 
+[![AmpleCapacity - Featured on DevHunt](https://devhunt.org/badge/amplecapacity.svg)](https://devhunt.org/tool/amplecapacity)
+
 `ample` measures the files on your Mac that your tools can make again:
 package caches, Xcode build data, Docker disks, downloaded AI models and app
 caches. It tells you how much space they take, grouped by kind.
